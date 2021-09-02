@@ -2,9 +2,9 @@
 PatchedTO - Fully asyncronous example made for .NET
 
 
-#Example:
+# Example:
 
-##Ask for key and auto login
+## Ask for key and auto login
 ```csharp
 using PatchedTOAuth.Auth;
 using PatchedTOAuth.Utils;
