@@ -13,6 +13,7 @@ namespace PatchedTOAuth.Auth
         public string AppName { get; set; } = "PatchedTO";
 
         public RequestController requestController;
+        
         public AuthControl(string authKey)
         {
             AuthKey = authKey;
