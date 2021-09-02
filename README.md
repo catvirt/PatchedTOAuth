@@ -65,6 +65,8 @@ namespace PatchedTOAuth
             }
 
             Console.WriteLine("Success!");
+            
+            // you can use as well interpolated strings!
 
             Console.WriteLine("IP: " + checkUserDataAsync.UserInfo.Ip);
             Console.WriteLine("RANK: " + checkUserDataAsync.UserInfo.Rank);
